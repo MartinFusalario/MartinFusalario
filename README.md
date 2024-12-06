@@ -10,7 +10,7 @@ I am a versatilist and easily adapt to different hats. I love exploring new tech
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **[Fever](https://careers.feverup.com/)**
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/martin-fusalario/)
 
 <br/>
