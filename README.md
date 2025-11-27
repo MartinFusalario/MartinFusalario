@@ -34,7 +34,3 @@ I am a versatilist and easily adapt to different hats. I love exploring new tech
 </div>
 
 ---
-
-### 📊 Github Stats
-
-![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinFusalario&show_icons=true&theme=tokyonight)
