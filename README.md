@@ -29,5 +29,5 @@ I'm a full-stack developer who loves exploring new tech stacks and turning ideas
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MartinFusalario&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
